@@ -1,15 +1,15 @@
-# Sample Company Website
+# サンプルカンパニー ウェブサイト
 
-This repository contains a simple website for a fictional company called "Sample Company".
+このリポジトリには、「サンプルカンパニー」という架空の会社のシンプルなウェブサイトが含まれています。
 
-## Project Structure
+## プロジェクト構成
 
-*   `index.html`: The main HTML file for the website.
-*   `styles.css`: The CSS file for styling the website.
-*   `script.js`: The JavaScript file for basic interactivity (e.g., contact form submission).
-*   `README.md`: This file, providing information about the project.
+*   `index.html`: ウェブサイトのメインHTMLファイルです。
+*   `styles.css`: ウェブサイトのスタイルを設定するCSSファイルです。
+*   `script.js`: 簡単なインタラクティビティ（例：お問い合わせフォームの送信）を実現するJavaScriptファイルです。
+*   `README.md`: このファイルで、プロジェクトに関する情報を提供します。
 
-## How to View
+## 表示方法
 
-1.  Clone this repository to your local machine.
-2.  Open the `index.html` file in your web browser.
+1.  このリポジトリをローカルマシンにクローンします。
+2.  `index.html` ファイルをウェブブラウザで開きます。
